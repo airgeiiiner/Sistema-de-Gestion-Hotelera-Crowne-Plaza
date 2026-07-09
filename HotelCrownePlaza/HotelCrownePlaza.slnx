@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/API/" />
+  <Folder Name="/CORE/" />
+  <Folder Name="/INFRASTRUCTURE/" />
+  <Folder Name="/TEST/" />
+</Solution>
