@@ -1,12 +1,166 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B538EA1-11C8-45C6-B639-D6D65775985E}|Elementos de la soluci\u00F3n{9B538EA1-11C8-45C6-B639-D6D65775985E}|C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9B538EA1-11C8-45C6-B639-D6D65775985E}|Elementos de la soluci\u00F3n{9B538EA1-11C8-45C6-B639-D6D65775985E}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21642414-D0CE-4EF0-A674-60DE9B45A850}|SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj|c:\\users\\the bufetic import\\source\\repos\\sistema-de-gestion-hotelera-crowne-plaza\\hotelcrowneplaza\\sistemahotelcrowne.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21642414-D0CE-4EF0-A674-60DE9B45A850}|SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj|solutionrelative:sistemahotelcrowne.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21642414-D0CE-4EF0-A674-60DE9B45A850}|SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj|c:\\users\\the bufetic import\\source\\repos\\sistema-de-gestion-hotelera-crowne-plaza\\hotelcrowneplaza\\sistemahotelcrowne.domain\\entities\\folio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21642414-D0CE-4EF0-A674-60DE9B45A850}|SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj|solutionrelative:sistemahotelcrowne.domain\\entities\\folio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21642414-D0CE-4EF0-A674-60DE9B45A850}|SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj|c:\\users\\the bufetic import\\source\\repos\\sistema-de-gestion-hotelera-crowne-plaza\\hotelcrowneplaza\\sistemahotelcrowne.domain\\entities\\reservacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21642414-D0CE-4EF0-A674-60DE9B45A850}|SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj|solutionrelative:sistemahotelcrowne.domain\\entities\\reservacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21642414-D0CE-4EF0-A674-60DE9B45A850}|SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj|c:\\users\\the bufetic import\\source\\repos\\sistema-de-gestion-hotelera-crowne-plaza\\hotelcrowneplaza\\sistemahotelcrowne.domain\\entities\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21642414-D0CE-4EF0-A674-60DE9B45A850}|SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj|solutionrelative:sistemahotelcrowne.domain\\entities\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21642414-D0CE-4EF0-A674-60DE9B45A850}|SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj|c:\\users\\the bufetic import\\source\\repos\\sistema-de-gestion-hotelera-crowne-plaza\\hotelcrowneplaza\\sistemahotelcrowne.domain\\enums\\tipohabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21642414-D0CE-4EF0-A674-60DE9B45A850}|SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj|solutionrelative:sistemahotelcrowne.domain\\enums\\tipohabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21642414-D0CE-4EF0-A674-60DE9B45A850}|SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj|c:\\users\\the bufetic import\\source\\repos\\sistema-de-gestion-hotelera-crowne-plaza\\hotelcrowneplaza\\sistemahotelcrowne.domain\\enums\\estadohabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21642414-D0CE-4EF0-A674-60DE9B45A850}|SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj|solutionrelative:sistemahotelcrowne.domain\\enums\\estadohabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21642414-D0CE-4EF0-A674-60DE9B45A850}|SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj|c:\\users\\the bufetic import\\source\\repos\\sistema-de-gestion-hotelera-crowne-plaza\\hotelcrowneplaza\\sistemahotelcrowne.domain\\enums\\estadoreservacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21642414-D0CE-4EF0-A674-60DE9B45A850}|SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj|solutionrelative:sistemahotelcrowne.domain\\enums\\estadoreservacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21642414-D0CE-4EF0-A674-60DE9B45A850}|SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj|c:\\users\\the bufetic import\\source\\repos\\sistema-de-gestion-hotelera-crowne-plaza\\hotelcrowneplaza\\sistemahotelcrowne.domain\\sistemahotelcrowne.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21642414-D0CE-4EF0-A674-60DE9B45A850}|SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj|solutionrelative:sistemahotelcrowne.domain\\sistemahotelcrowne.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-09T04:31:33.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoHabitacion.cs",
+              "DocumentMoniker": "C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\SistemaHotelCrowne.Domain\\Enums\\TipoHabitacion.cs",
+              "RelativeDocumentMoniker": "SistemaHotelCrowne.Domain\\Enums\\TipoHabitacion.cs",
+              "ToolTip": "C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\SistemaHotelCrowne.Domain\\Enums\\TipoHabitacion.cs",
+              "RelativeToolTip": "SistemaHotelCrowne.Domain\\Enums\\TipoHabitacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T04:21:22.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EstadoHabitacion.cs",
+              "DocumentMoniker": "C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\SistemaHotelCrowne.Domain\\Enums\\EstadoHabitacion.cs",
+              "RelativeDocumentMoniker": "SistemaHotelCrowne.Domain\\Enums\\EstadoHabitacion.cs",
+              "ToolTip": "C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\SistemaHotelCrowne.Domain\\Enums\\EstadoHabitacion.cs",
+              "RelativeToolTip": "SistemaHotelCrowne.Domain\\Enums\\EstadoHabitacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T04:20:15.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Folio.cs",
+              "DocumentMoniker": "C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\SistemaHotelCrowne.Domain\\Entities\\Folio.cs",
+              "RelativeDocumentMoniker": "SistemaHotelCrowne.Domain\\Entities\\Folio.cs",
+              "ToolTip": "C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\SistemaHotelCrowne.Domain\\Entities\\Folio.cs",
+              "RelativeToolTip": "SistemaHotelCrowne.Domain\\Entities\\Folio.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T04:18:14.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\SistemaHotelCrowne.Domain\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "SistemaHotelCrowne.Domain\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\SistemaHotelCrowne.Domain\\Entities\\Cliente.cs",
+              "RelativeToolTip": "SistemaHotelCrowne.Domain\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T04:09:26.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Habitacion.cs",
+              "DocumentMoniker": "C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\SistemaHotelCrowne.Domain\\Entities\\Habitacion.cs",
+              "RelativeDocumentMoniker": "SistemaHotelCrowne.Domain\\Entities\\Habitacion.cs",
+              "ToolTip": "C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\SistemaHotelCrowne.Domain\\Entities\\Habitacion.cs",
+              "RelativeToolTip": "SistemaHotelCrowne.Domain\\Entities\\Habitacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T04:16:59.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reservacion.cs",
+              "DocumentMoniker": "C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\SistemaHotelCrowne.Domain\\Entities\\Reservacion.cs",
+              "RelativeDocumentMoniker": "SistemaHotelCrowne.Domain\\Entities\\Reservacion.cs",
+              "ToolTip": "C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\SistemaHotelCrowne.Domain\\Entities\\Reservacion.cs",
+              "RelativeToolTip": "SistemaHotelCrowne.Domain\\Entities\\Reservacion.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwDgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T04:13:31.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstadoReservacion.cs",
+              "DocumentMoniker": "C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\SistemaHotelCrowne.Domain\\Enums\\EstadoReservacion.cs",
+              "RelativeDocumentMoniker": "SistemaHotelCrowne.Domain\\Enums\\EstadoReservacion.cs",
+              "ToolTip": "C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\SistemaHotelCrowne.Domain\\Enums\\EstadoReservacion.cs",
+              "RelativeToolTip": "SistemaHotelCrowne.Domain\\Enums\\EstadoReservacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T04:19:13.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SistemaHotelCrowne.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj",
+              "RelativeDocumentMoniker": "SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj",
+              "ToolTip": "C:\\Users\\The Bufetic Import\\source\\repos\\Sistema-de-Gestion-Hotelera-Crowne-Plaza\\HotelCrownePlaza\\SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj",
+              "RelativeToolTip": "SistemaHotelCrowne.Domain\\SistemaHotelCrowne.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-09T04:03:31.011Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
