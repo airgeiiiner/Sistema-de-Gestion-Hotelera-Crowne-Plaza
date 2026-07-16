@@ -4,9 +4,9 @@
     <Project Path="SistemaHotelCrowne.Application/SistemaHotelCrowne.Application.csproj" Id="8c9eb8ea-e10b-487b-a9ce-42046a99fe65" />
     <Project Path="SistemaHotelCrowne.Domain/SistemaHotelCrowne.Domain.csproj" Id="21642414-d0ce-4ef0-a674-60de9b45a850" />
   </Folder>
+  <Folder Name="/CORE/INFRASTRUCTURE/" />
+  <Folder Name="/CORE/TEST/" />
   <Folder Name="/Elementos de la solución/">
     <File Path=".gitignore" />
   </Folder>
-  <Folder Name="/INFRASTRUCTURE/" />
-  <Folder Name="/TEST/" />
 </Solution>
